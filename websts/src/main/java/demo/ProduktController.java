@@ -1,8 +1,6 @@
 package demo;
 
-import io.undertow.attribute.RequestMethodAttribute;
-import javax.ws.rs.GET;
-
+import org.springframework.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
