@@ -17,10 +17,9 @@ public class ProduktController {
 		this.produktService = produktService;
 	}
 	
-	@RequestMapping(value="/Index", method=RequestMethod.GET)
-	public String getUser()
+	@RequestMapping(value="/index")
+	public String index()
 	{
-		return "/Index";
+		return "index";
 	}
-	
 }
