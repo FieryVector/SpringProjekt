@@ -16,10 +16,5 @@ public class ProduktController {
 	{
 		this.produktService = produktService;
 	}
-	
-	@RequestMapping(value="/index")
-	public String index()
-	{
-		return "index";
-	}
+
 }

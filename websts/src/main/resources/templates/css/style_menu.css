@@ -1,0 +1,67 @@
+@charset "utf-8";
+/* CSS Document */
+
+.btn {
+  background: #E90A0E; 
+  color: #000000;
+  display: inline-block;
+  border: none;
+  font-family: Arial, sans-serif;
+  font-weight:bold;
+  line-height: 2.5em;
+  width: 197px;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  text-decoration: none; 
+}
+
+.logo{
+	width: 60px; 
+	height: 38px; 
+}
+
+#zentrieren{
+	width: 1475px;
+	margin:auto;
+	border-radius: 5px;
+	margin-top:2px;
+}
+
+#zentrierenHaupt{
+	width: 1455px;
+	margin:auto;
+	border-radius: 5px;
+	margin-top:2px;
+}
+
+.bild{
+	height:94px;
+	margin: 10 10 10 10px;
+}
+
+.topfield{
+	height:100px;
+	background:rgba(163,0,2,1.00);
+}
+
+.headschrift{
+	font-size:13px;
+	font-weight:bold;
+}
+
+.menu{
+	background:#E90A0E;
+}
+
+.text {
+	background:#FFFFFF;
+	height:600px;
+	overflow: auto;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+
+body {
+	background:#ABABAB;
+}
